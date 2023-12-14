@@ -1,0 +1,50 @@
+---
+# PDF Start
+# title: How：清洁水龙头内丝起泡器
+# author: 张年强
+# subject: Household Facilities
+# keywords: [水龙头, 内丝起泡器]
+# PDF End
+# Github pages Jekyll Start
+# title: How：清洁水龙头内丝起泡器
+# date: 2023-12-03 10:00:00 +0800
+# last_modified_at: 2023-12-03 10:00:00 +0800
+# categories: [Household Facilities]
+# tags: [水龙头, 内丝起泡器] 
+# Github pages Jekyll End
+# Docusaurus Start
+sidebar_position: 2
+title: How:清洁水龙头内丝起泡器
+tags: [维护, 水龙头, 内丝起泡器]
+toc_max_heading_level: 4
+last_update:
+  date: 12/03/2023
+  author: 张年强
+# Docusaurus End
+---
+
+## 场景定义：定期清洁
+
+通常情况下，厨房的洗菜盆会安装如下图的水龙头，或者外形类似的水龙头。
+
+![](https://p-md.s3.bitiful.net/90000/99140-00002/99140-00002-01.jpg)
+
+上图中红圈是外丝起泡器，其主要特征是丝扣在起泡器内。由于起泡器有过滤网，如下图所示，可能会导致杂质堵塞在其上，需要定期清洁。
+
+![](https://p-md.s3.bitiful.net/90000/99140-00002/99140-00002-02.jpg)
+
+## 处理过程：
+
+1. 面向水龙头，使用核桃夹垫上手巾或使用专业工具夹住，向左旋转活动扳手，可以拧下来。
+
+   ![](https://p-md.s3.bitiful.net/90000/99140-00002/99140-00002-03.png)
+
+2. 从后部向前部用力可以使起泡器的的外壳与内核脱离，如下图。
+
+   ![](https://p-md.s3.bitiful.net/90000/99140-00002/99140-00002-04.jpg)
+
+3. 使用弃用的牙刷清理表面过滤网。
+
+   ![](https://p-md.s3.bitiful.net/90000/99140-00002/99140-00002-05.jpg)
+
+4. 逆序安装。
